@@ -21,6 +21,4 @@ With that program you can also view
 And all the informations are saved in files.
 
 ## How It Works
----
-
 The program runs in terminal and you can make your choices with numbers.
