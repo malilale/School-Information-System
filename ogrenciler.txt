@@ -1,0 +1,10 @@
+22011001,Eddard,Stark,13,3
+22011002,Tyrion,Lannister,14,3
+22011003,Robert,Baratheon,15,3
+22011004,Cersei,Lannister,12,3
+22011005,Daenerys,Targaryen,14,3
+22011006,Jon,Snow,15,3
+22011008,Jaime,Lannister,16,3
+22011010,Theon,Greyjoy,14,3
+22011011,Arya,Stark,16,4
+20011045,MuhammedAli,Lale,9,3
