@@ -1,8 +1,8 @@
-## #School Information System
+## School Information System
 
 This Program is a basic management information system about students and courses in a school.
 
-## ##Functions
+## Functions
 
 - Add Courses
 - Delete Courses
@@ -10,9 +10,8 @@ This Program is a basic management information system about students and courses
 - Delete Students
 - Registiration of a student to a course
 
-##And More
+## And More
 
----
 
 With that program you can also view
 
@@ -21,6 +20,7 @@ With that program you can also view
 
 And all the informations are saved in files.
 
-## ##How It Works
+## How It Works
+---
 
 The program runs in terminal and you can make your choices with numbers.
